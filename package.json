@@ -70,7 +70,7 @@
     "@types/mri": "^1.1.4",
     "@types/node": "^20.9.0",
     "@upstash/redis": "^1.25.1",
-    "@vercel/kv": "^0.2.4",
+    "@vercel/kv": "^1.0.0",
     "@vitejs/plugin-vue": "^4.4.1",
     "@vitest/coverage-v8": "^0.34.6",
     "@vue/compiler-sfc": "^3.3.8",
@@ -105,7 +105,7 @@
     "@capacitor/preferences": "^5.0.6",
     "@planetscale/database": "^1.11.0",
     "@upstash/redis": "^1.23.4",
-    "@vercel/kv": "^0.2.3",
+    "@vercel/kv": "^1.0.0",
     "idb-keyval": "^6.2.1"
   },
   "peerDependenciesMeta": {
